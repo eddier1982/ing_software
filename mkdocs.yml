@@ -5,12 +5,9 @@ nav:
   - Home: home.md
   - Planning: planning.md
   - Semestre 1: 
-    - Pensamiento Algoritmico:
-      - Escenario 1: '01-semestre/01-pensamiento_algorit/010101_escenarios.md'
-    - Matemáticas: 
-      - Escenario 1: '01-semestre/02-matematicas/010201_escenario.md'
-    - Telecomunicaciones:
-      - Escenario 1: '01-semestre/03-telecomunicaciones/010301_escenario.md'
+    - Pensamiento Algoritmico: '01-semestre/01-pensamiento_algorit/010101_escenarios.md'
+    - Matemáticas: '01-semestre/02-matematicas/010201_escenarios.md'
+    - Telecomunicaciones: '01-semestre/03-telecomunicaciones/010301_escenarios.md'
   - About: about.md
     
 theme:
