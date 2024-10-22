@@ -1,0 +1,26 @@
+site_name: Ingeniería de Software - Politécnico
+# site_url:
+
+nav:
+  - Home: home.md
+  - Planning: planning.md
+  - Semestre 1: 
+    - Pensamiento Algoritmico:
+      - Escenario 1: '01-semestre/01-pensamiento_algorit/010101_escenarios.md'
+    - Matemáticas: 
+      - Escenario 1: '01-semestre/02-matematicas/010201_escenario.md'
+    - Telecomunicaciones:
+      - Escenario 1: '01-semestre/03-telecomunicaciones/010301_escenario.md'
+  - About: about.md
+    
+theme:
+  name: material
+  logo: logo.png
+  palette:
+    primary: light red
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+
+markdown_extensions:
+  - attr_list
